@@ -22,6 +22,7 @@
 
                 Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Stäng");
                 Console.Write(">");
+                Console.WriteLine("wassup");
 
             }
 
